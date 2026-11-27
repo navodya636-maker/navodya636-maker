@@ -46,7 +46,7 @@ A MERN Stack airline reservation application with flight search, booking managem
 - LinkedIn: [https://www.linkedin.com/in/isuri-navodya-a0aa1244a](https://www.linkedin.com/in/isuri-navodya-a0aa1244a)
 - GitHub: [https://github.com/navodya636-maker](https://github.com/navodya636-maker)
 
-Thank you for visiting my profile! 😊 mehem danne kohomd
+Thank you for visiting my profile! 😊 
 
 
 <!--
